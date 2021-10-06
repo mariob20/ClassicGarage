@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ClassicGarage.Models.AdvertismentModels>
+@using Microsoft.AspNet.Identity
+
+@{
+    ViewBag.Title = "Ogłoszenia";
+}
+<h2>Twoje Ogłoszenia</h2>
+<br />
+<center>
+    <table style="max-width:600px;">
+
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td style="text-align:center">
+
+                    @Html.DisplayFor(modelItem => item.Car.Make)
+                    @Html.DisplayFor(modelItem => item.Car.Model)
+                </td>
+            </tr>
+            <tr>
+                <td>  <image width="300px" style="border-radius:25px" src="@Html.DisplayFor(modelItem => item.Car.Picture)" /> </td>
+            </tr>
+            <tr>
+                <td style="text-align:center">   @Html.ActionLink("Szczegóły", "Details", new { id = item.ID })</td>
+            </tr>
+
+
+
+
+
+            <tr>
+                @if ((Request.IsAuthenticated) && User.Identity.GetUserName().Equals(item.Car.Owner.Email))
+                {
+                <td>
+
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                    @Html.ActionLink("Skasuj", "Delete", new { id = item.ID })
+
+                </td>
+                }
+            </tr>
+
+
+        }
+
+    </table>
+</center>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Parametry połączenia używane w pliku web.config przez aplikację w celu uzyskiwania dostępu do bazy danych." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-ClassicGarage-20181025104442.mdf;Initial Catalog=aspnet-ClassicGarage-20181025104442;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Mario\\Desktop\\garaz\\ClassicGarage\\ClassicGarage\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="ClassicGarageConnection-Web.config Connection String" description="ClassicGarageConnection Parametry połączenia używane w pliku web.config przez aplikację w celu uzyskiwania dostępu do bazy danych." defaultValue="Server=tcp:mariuszbaranskidb.database.windows.net,1433;Initial Catalog=mariuszbaranskidb;Persist Security Info=False;User ID=mariuszbaranski;Password=Test123!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Mario\\Desktop\\garaz\\ClassicGarage\\ClassicGarage\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ClassicGarageConnection']/@connectionString" />
+  </parameter>
+</parameters>

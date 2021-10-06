@@ -1,0 +1,76 @@
+﻿@model IEnumerable<ClassicGarage.Models.PartsModels>
+@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Częsci";
+}
+
+<img src="https://www.xedos.com.pl/files/9014/5923/9075/slider_parts.png" width="100%" height="100%">
+<br />
+<center>
+
+    <font size="6">@Html.ActionLink("Dodaj nowa część", "Create") </font>
+</center>
+<table class="table">
+    <tr>
+        <th>
+            Marka
+        </th>
+        <th>
+            Model
+        </th>
+        <th>
+           Nr Katalogowy
+        </th>
+        <th>
+            Cena Zakupu
+        </th>
+        <th>
+            Cena Sprzedaży
+        </th>
+        <th>
+            Data zakupu
+        </th>
+        <th>
+            Data sprzedaży
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            @if ((Request.IsAuthenticated) && User.Identity.GetUserName().Equals(item.Car.Owner.Email))
+            {
+
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Car.Make)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CatalogNo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PurchaseAmount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SalesAmount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PurchaseDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SalesDate)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+                </td>
+            }
+            </tr>
+        }
+
+        </table>

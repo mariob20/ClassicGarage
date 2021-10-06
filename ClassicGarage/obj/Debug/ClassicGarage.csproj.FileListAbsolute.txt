@@ -1,0 +1,1265 @@
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\ApplicationInsights.config
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe.config
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\csc.rsp
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\csi.exe
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\csi.rsp
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\System.AppContext.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe.config
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\vbc.rsp
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll.config
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\ClassicGarage.pdb
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\EntityFramework.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Owin.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.Razor.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\WebGrease.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.Razor.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.pdb
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\EntityFramework.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.xml
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\System.Web.Helpers.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\System.Web.Mvc.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\System.Web.Optimization.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\System.Web.Razor.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Deployment.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Razor.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Google.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csprojResolveAssemblyReference.cache
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.dll
+D:\Users\mariusz.baranski\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.pdb
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\ApplicationInsights.config
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe.config
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\csc.rsp
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\csi.exe
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\csi.rsp
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\System.AppContext.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe.config
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\vbc.rsp
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll.config
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\ClassicGarage.pdb
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\EntityFramework.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Owin.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.Razor.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\WebGrease.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.Razor.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.pdb
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\EntityFramework.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.xml
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csproj.CopyComplete
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.dll
+C:\Users\Mario\Desktop\ClassicGarage\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.pdb
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\ApplicationInsights.config
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe.config
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.rsp
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.exe
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.rsp
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.AppContext.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe.config
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.rsp
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll.config
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.pdb
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Owin.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\WebGrease.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.pdb
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.xml
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Helpers.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Mvc.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Optimization.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Razor.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Deployment.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Razor.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Google.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csprojResolveAssemblyReference.cache
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.dll
+D:\Users\mariusz.baranski\Desktop\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.pdb
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\ApplicationInsights.config
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe.config
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.rsp
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.exe
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.rsp
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.AppContext.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Collections.Immutable.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Reflection.Metadata.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe.config
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.rsp
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe.config
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll.config
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.pdb
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Agent.Intercept.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Web.Infrastructure.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Owin.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\WebGrease.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.pdb
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.xml
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Helpers.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Mvc.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Optimization.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Razor.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Deployment.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Razor.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Host.SystemWeb.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Facebook.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Google.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Twitter.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csprojAssemblyReference.cache
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csproj.CoreCompileInputs.cache
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csproj.CopyComplete
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.dll
+H:\CZW_ASP_net\ggga\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.pdb
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\ApplicationInsights.config
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe.config
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.rsp
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.exe
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.rsp
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.AppContext.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe.config
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.rsp
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll.config
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.pdb
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Owin.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\WebGrease.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.pdb
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.xml
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csproj.CopyComplete
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.dll
+C:\Users\Mario\Desktop\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.pdb
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\ApplicationInsights.config
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe.config
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.rsp
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.exe
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.rsp
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.AppContext.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Collections.Immutable.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Reflection.Metadata.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe.config
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.rsp
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe.config
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll.config
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.pdb
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Agent.Intercept.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Web.Infrastructure.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Owin.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\WebGrease.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.pdb
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.xml
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Helpers.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Mvc.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Optimization.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Razor.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Deployment.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Razor.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Facebook.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Google.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Twitter.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csprojResolveAssemblyReference.cache
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.dll
+F:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.pdb
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\ApplicationInsights.config
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe.config
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.rsp
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.exe
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.rsp
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.AppContext.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Collections.Immutable.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Reflection.Metadata.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe.config
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.rsp
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe.config
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll.config
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.pdb
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Agent.Intercept.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Web.Infrastructure.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Owin.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\WebGrease.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.pdb
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.xml
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Helpers.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Mvc.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Optimization.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Razor.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Deployment.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Razor.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Host.SystemWeb.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Facebook.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Google.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Twitter.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csprojAssemblyReference.cache
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csproj.CoreCompileInputs.cache
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csproj.CopyComplete
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.dll
+I:\CZW_ASP_net\ASP 13.12\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.pdb
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\ApplicationInsights.config
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe.config
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.rsp
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.exe
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.rsp
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.AppContext.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe.config
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.rsp
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll.config
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.pdb
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Owin.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\WebGrease.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.pdb
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.xml
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csproj.CopyComplete
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.dll
+C:\Users\Mario\Desktop\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.pdb
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\ApplicationInsights.config
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe.config
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.rsp
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.exe
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.rsp
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.AppContext.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Collections.Immutable.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Reflection.Metadata.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe.config
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.rsp
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe.config
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll.config
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.pdb
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Agent.Intercept.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Web.Infrastructure.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Owin.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\WebGrease.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.pdb
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.xml
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Helpers.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Mvc.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Optimization.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Razor.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Deployment.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Razor.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Facebook.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Google.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Twitter.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csprojResolveAssemblyReference.cache
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.dll
+F:\CZW_ASP_net\CLASSIC GARAGE ASP 01.01.2k19\garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.pdb
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\ApplicationInsights.config
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe.config
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.rsp
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.exe
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.rsp
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.AppContext.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Collections.Immutable.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Reflection.Metadata.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe.config
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.rsp
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe.config
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll.config
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.pdb
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Agent.Intercept.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Web.Infrastructure.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Owin.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\WebGrease.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.pdb
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.xml
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Helpers.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Mvc.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Optimization.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Razor.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Deployment.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Razor.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Facebook.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Google.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Twitter.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csprojResolveAssemblyReference.cache
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.dll
+F:\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.pdb
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\ApplicationInsights.config
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.exe.config
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\csc.rsp
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.exe
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\csi.rsp
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.AppContext.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Collections.Immutable.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\System.Reflection.Metadata.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.exe.config
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\vbc.rsp
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\roslyn\VBCSCompiler.exe.config
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll.config
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\ClassicGarage.pdb
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Agent.Intercept.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Web.Infrastructure.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Owin.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\WebGrease.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.Helpers.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.Mvc.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.Optimization.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.Razor.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Deployment.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Web.WebPages.Razor.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Antlr3.Runtime.pdb
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Newtonsoft.Json.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\EntityFramework.SqlServer.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Core.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Facebook.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Cookies.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.OAuth.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Google.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.Twitter.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.ApplicationInsights.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.DependencyCollector.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.WindowsServer.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\Microsoft.AI.Web.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Helpers.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Mvc.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Optimization.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.Razor.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Deployment.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\System.Web.WebPages.Razor.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Facebook.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Google.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.Twitter.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\pl\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csprojAssemblyReference.cache
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csproj.CoreCompileInputs.cache
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.csproj.CopyComplete
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\obj\Debug\ClassicGarage.pdb
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\MySqlConnector.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Buffers.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Memory.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Threading.Tasks.Extensions.dll
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\MySqlConnector.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Buffers.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Memory.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\M A R I O\Studia\pendrive23.03\____\5_sem\CZW_ASP_net\Final_Garaz\ClassicGarage\ClassicGarage\bin\System.Threading.Tasks.Extensions.xml

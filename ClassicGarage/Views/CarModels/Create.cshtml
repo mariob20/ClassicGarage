@@ -1,0 +1,116 @@
+﻿@model ClassicGarage.Models.CarModels
+@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Dodaj Samochód";
+}
+
+<h2>Dodaj Samochód</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+ 
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        <div class="control-label col-md-2">Marka:</div>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Make, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Make, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="control-label col-md-2">Model:</div>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Model, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Model, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="control-label col-md-2">Rok:</div>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Year, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Year, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="control-label col-md-2">Vin:</div>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.VIN, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.VIN, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="control-label col-md-2">Nazwa Modelu:</div>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="control-label col-md-2">Zdjecie:</div>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Picture, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Picture, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="control-label col-md-2">Data Zakupu:</div>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.PurchaseDate, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.PurchaseDate, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="control-label col-md-2">Cena Zakupu:</div>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.PurchaseAmount, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.PurchaseAmount, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="control-label col-md-2">Data Sprzedaży:</div>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.SalesDate, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.SalesDate, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="control-label col-md-2">Cena Sprzedaży:</div>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.SalesAmount, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.SalesAmount, "", new { @class = "text-danger" })
+        </div>
+    </div>
+  
+      
+
+        
+    
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Cofnij", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

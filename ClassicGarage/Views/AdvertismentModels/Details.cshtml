@@ -1,0 +1,68 @@
+﻿@model ClassicGarage.Models.AdvertismentModels
+@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Szczegóły";
+}
+
+<h2>Szczegóły</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+           Marka:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Car.Make)
+        </dd>
+        <dt>
+           Model:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Car.Model)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Car.Year)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Car.Year)
+        </dd>
+        <dt>
+            Cena:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Car.SalesAmount)
+        </dd>
+
+        <dt>
+            Kontakt:
+        </dt>
+
+
+        <dd>
+            @Html.DisplayFor(model => model.Car.Owner.PhoneNo)
+        </dd>
+
+    
+
+        <dd>
+            <img width="450px" src="@Html.DisplayFor(model => model.Car.Picture)" />
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+
+
+    @if ((Request.IsAuthenticated) && User.Identity.GetUserName().Equals(Model.Car.Owner.Email))
+    {
+        @Html.ActionLink("Edit", "Edit", new { id = Model.ID })
+
+    }
